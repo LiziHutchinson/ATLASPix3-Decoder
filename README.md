@@ -1,3 +1,5 @@
+If qmake not available, use a direct call of g++. There is a CMakeLists file for this purpose. 
+
 The script is embedded in a qt project for easier debugging. Nothing but qmake is used.
 Instead of using qmake, the project can also be compiled using a direct call of g++.
 
